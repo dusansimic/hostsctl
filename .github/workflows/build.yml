@@ -2,8 +2,6 @@ name: Build wheel
 
 on:
   push:
-    paths-ignore:
-      - README.md
 
 jobs:
   build:
